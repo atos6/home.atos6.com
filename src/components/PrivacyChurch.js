@@ -58,7 +58,7 @@ const PrivacyChurch = () => {
                   <Link href="mailto:atendimento@atos6.com">
                     atendimento@atos6.com
                   </Link>
-                  , pelo telefone (21) 96669-6468 ou chat disponível na
+                  , pelo telefone (21) 96623-7268 ou chat disponível na
                   plataforma.
                 </AccordionPanel>
                 <AccordionPanel pb={4}>
@@ -924,7 +924,7 @@ const PrivacyChurch = () => {
                     <Link href="mailto:atendimento@atos6.com">
                       atendimento@atos6.com
                     </Link>{" "}
-                    ou pelo telefone (21) 96669-6468.
+                    ou pelo telefone (21) 96623-7268.
                   </TextBody>
                   <br />
                 </AccordionPanel>
