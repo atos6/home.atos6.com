@@ -40,15 +40,6 @@ export default function Contact() {
           </p>
         </div>
         <div>
-          <img alt="Hand holding a cellphone" src={Hand} />
-          <h5>(21) 96623-7268</h5>
-          <p>
-            <strong>Deseja nos ligar?&nbsp;</strong>Entre em contato pelo
-            telefone,{" "}
-            <strong>de segunda à sexta das 9h às 12h e das 13h às 18h.</strong>
-          </p>
-        </div>
-        <div>
           <img alt="Email envelope" src={Envelope} />
           <h5>atendimento@atos6.com</h5>
           <p>
