@@ -41,7 +41,7 @@ export default function Contact() {
         </div>
         <div>
           <img alt="Email envelope" src={Envelope} />
-          <h5>atendimento@atos6.com</h5>
+          <h5>falecom@inchurch.com.br</h5>
           <p>
             Nos envie um email a qualquer momento&nbsp;que{" "}
             <strong>responderemos até o próximo dia útil.</strong>

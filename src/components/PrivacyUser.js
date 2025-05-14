@@ -50,8 +50,8 @@ const PrivacyUser = () => {
                 <AccordionPanel pb={4}>
                   Além disso, estamos sempre disponíveis para tirar qualquer
                   dúvida que você tenha pelo e-mail{" "}
-                  <Link href="mailto:atendimento@atos6.com">
-                    atendimento@atos6.com
+                  <Link href="mailto:falecom@inchurch.com.br.com">
+                    falecom@inchurch.com.br.com
                   </Link>
                   , pelo telefone (21) 96623-7268 ou chat disponível na
                   plataforma.
@@ -975,8 +975,8 @@ const PrivacyUser = () => {
                     11.1. A ATOS6 disponibiliza os seguintes canais para receber
                     todas as comunicações que os Usuários desejarem fazer: pelo
                     chat online disponível na plataforma, pelo e-mail{" "}
-                    <Link href="mailto:atendimento@atos6.com" target="_blank">
-                      atendimento@atos6.com
+                    <Link href="mailto:falecom@inchurch.com.br.com" target="_blank">
+                      falecom@inchurch.com.br.com
                     </Link>{" "}
                     ou pelo telefone (21) 96623-7268.
                   </TextBody>
