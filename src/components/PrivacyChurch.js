@@ -58,7 +58,7 @@ const PrivacyChurch = () => {
                   <Link href="mailto:falecom@inchurch.com.br.com">
                     falecom@inchurch.com.br.com
                   </Link>
-                  , pelo telefone (21) 96623-7268 ou chat disponível na
+                    ou chat disponível na
                   plataforma.
                 </AccordionPanel>
                 <AccordionPanel pb={4}>
@@ -924,7 +924,6 @@ const PrivacyChurch = () => {
                     <Link href="mailto:falecom@inchurch.com.br.com">
                       falecom@inchurch.com.br.com
                     </Link>{" "}
-                    ou pelo telefone (21) 96623-7268.
                   </TextBody>
                   <br />
                 </AccordionPanel>
