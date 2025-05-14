@@ -55,8 +55,8 @@ const PrivacyChurch = () => {
                 <AccordionPanel pb={4}>
                   Além disso, estamos sempre disponíveis para tirar qualquer
                   dúvida que você tenha pelo e-mail{" "}
-                  <Link href="mailto:falecom@inchurch.com.br.com">
-                    falecom@inchurch.com.br.com
+                  <Link href="mailto:falecom@inchurch.com.br">
+                    falecom@inchurch.com.br
                   </Link>
                     ou chat disponível na
                   plataforma.
@@ -779,8 +779,8 @@ const PrivacyChurch = () => {
                     7.2. Cancelamento de contas de acesso pelo Usuário: Os
                     Usuários que queiram podem solicitar diretamente o
                     cancelamento da conta (login), pelo{" "}
-                    <Link href="mailto:falecom@inchurch.com.br.com">
-                      falecom@inchurch.com.br.com
+                    <Link href="mailto:falecom@inchurch.com.br">
+                      falecom@inchurch.com.br
                     </Link>{" "}
                     e pelo chat disponível na plataforma.
                   </TextBody>
@@ -921,8 +921,8 @@ const PrivacyChurch = () => {
                     receber todas as comunicações que os Usuários desejarem
                     fazer: pelo chat online disponível na plataforma, pelo
                     e-mail{" "}
-                    <Link href="mailto:falecom@inchurch.com.br.com">
-                      falecom@inchurch.com.br.com
+                    <Link href="mailto:falecom@inchurch.com.br">
+                      falecom@inchurch.com.br
                     </Link>{" "}
                   </TextBody>
                   <br />
