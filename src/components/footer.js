@@ -158,7 +158,7 @@ const Footer = ({ intl }) => {
           <div className="column">
             <ul className="links">
               <li>
-                <span>{intl.formatMessage({ id: "phone" })}</span>
+                {/* <span>{intl.formatMessage({ id: "phone" })}</span> */}
               </li>
 
               <li>
